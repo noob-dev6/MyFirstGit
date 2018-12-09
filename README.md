@@ -1,0 +1,2 @@
+# MyFirstGit
+Study about git
